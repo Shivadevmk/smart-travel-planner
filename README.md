@@ -11,7 +11,7 @@ A local-first trip planner built with React, Flask, and SQLite. Enter your dates
 - Rule-based morning, afternoon, and evening itinerary suggestions, tailored to selected interests.
 - Sample USD estimates for transport, accommodation, meals, and listed activities.
 - Choose USD or INR for the trip budget and estimated costs. INR uses a clearly labelled fixed sample conversion, not a live exchange rate.
-- Examople: Hyderabad–Goa includes illustrative train/bus/flight fare ranges, stay categories, and optional local rental estimates. These are not live schedules, prices, or availability.
+- Example: Hyderabad–Goa includes illustrative train/bus/flight fare ranges, stay categories, and optional local rental estimates. These are not live schedules, prices, or availability.
 - Map directions and external transport, hotel, and attraction search links.
 - Save and revisit generated trip plans in a local SQLite database.
 - Unknown destinations are accepted and clearly marked as using general sample estimates and suggestions.
